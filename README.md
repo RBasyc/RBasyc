@@ -1,11 +1,3 @@
-## Hi there 👋
-
-
-
-<div align="center">
-<br/>
-  
-### Languages
 
 # 👋 Hi, I'm RBasyc
 💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
