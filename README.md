@@ -7,15 +7,32 @@
   
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+# 👋 Hi, I'm RBasyc
+💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
 
-![RBasyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBasyc)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBasyc)
-![Metrics](https://metrics.lecoq.io/RBasyc?template=classic&isocalendar=1&pagespeed=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&fortune=false&config.timezone=Asia%2FShanghai)
+<!-- 技术栈徽章（复用你之前的居中代码） -->
+<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
+  <!-- 前端 -->
+  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
+  <!-- 趣味标签 -->
+  <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
+</div>
+
+
+## 📊 我的 GitHub 数据
+<!-- 自动生成的 GitHub 统计卡片 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RBasyc&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBasyc&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+</div>
+
+## 🎨 趣味数据
+<!-- GitHub 贡献图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RBasyc&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+</div>
+
