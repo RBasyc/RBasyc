@@ -1,7 +1,9 @@
 
 # 👋 Hi, I'm RBasyc
-💻 Full Stack Developer | 🚀 Vue/Taro/Node | 🎮 游戏爱好者
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
+
+💻 Full Stack Developer | 🚀 Vue/Taro/Node | 🎮 游戏爱好者
+
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=RBasyc)
   
