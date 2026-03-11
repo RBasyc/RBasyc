@@ -1,8 +1,12 @@
 
 # 👋 Hi, I'm RBasyc
 💻 Full Stack Developer | 🚀 Vue/Taro/Node | 🎮 游戏爱好者
-
+<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
+  
   ![GitHub Streak](https://streak-stats.demolab.com/?user=RBasyc)
+  
+</div>
+
   
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
