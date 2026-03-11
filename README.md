@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm RBasyc
+# 👋 Hi, I'm Basyc
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
 
 💻 Full Stack Developer | 🚀 Vue/Taro/Node | 🎮 游戏爱好者
