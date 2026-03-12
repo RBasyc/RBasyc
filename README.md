@@ -9,6 +9,12 @@
   
 </div>
 
+<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
+
+
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,nodejs,pinia,figma,git,mongodb,postman)](https://skillicons.dev)
+
+</div>
   
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
