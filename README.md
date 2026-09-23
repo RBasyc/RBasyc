@@ -29,15 +29,10 @@
 
 
 ## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RBasyc&show_icons=true&theme=transparent&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBasyc&layout=compact&theme=transparent" alt="常用语言" style="width: 48%;"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RBasys/RBasys/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RBasys/RBasys/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RBasys/RBasys/output/github-snake.svg" />
+</picture>
 
-## 🎨 趣味数据
-<!-- GitHub 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RBasyc&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
-</div>
 
